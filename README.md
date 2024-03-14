@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there! 👋</h1> 
 <div align="center">
 My name is Jackson, and here's some information about me!
-<h2 align="center">Stats</h1>
 <div align="center">
 
 
